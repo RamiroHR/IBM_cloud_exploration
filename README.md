@@ -110,7 +110,7 @@ Conveniently, pipelines can be easily built using SPSS Modeler Flows which allow
 * **_Model nugget node_**: it activates once the pipeline is executed. contains informations about the model: parameter, metrics, performance, etc
 * **_Model evaluation node_**: tables and charts.
 
-There are also some other spetial nodes **_Auto Clessifier_** and **_Auto Numeric_** which tries many ML moldels and allows to select the one with the best performance.  
+There are also some other special nodes **_Auto Classifier_** and **_Auto Numeric_** which tries many ML moldels and allows to select the one with the best performance.  
 \
 My watson project contains the "Drug Study Example" pipeline flow from SPSS modeler:
 
