@@ -1,4 +1,4 @@
-# 01_Watson_Studio
+# WatsonStudio
 
 This project is created within **IBM Watson Studio** as a way to learn to use its main capabilities: Assets Management, Data refinery, SPSS Modeler Flows, etc
 \
