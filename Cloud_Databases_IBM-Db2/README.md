@@ -45,7 +45,7 @@ A separate SQL script for each task is created.
 .  
 ### **Task-1:** 
 
-Create a table **_petsale_** with the following data:
+Create a table **_petsale_** with the following data:  
 <img src="./Task-1_Create_Petsale%20table.png" width="400">
 
 and a table **_pet_** table with the following data:  
