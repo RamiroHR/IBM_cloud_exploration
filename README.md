@@ -30,4 +30,7 @@ Insights from the database can be extracted using SQL statements.
 * Alter & Drop tables with DDL SQL statements.  
 * Modify, Update & Query data with DML SQL statements.  
 * Create Tables from CSV files.
-
+* Query databases using String Patterns, Sorting and Grouping.  
+* Using built-in functions for aggregation, scalar, strings, dates and times.  
+* Subqueries and nested select statements.  
+* working with multiple tables.  
