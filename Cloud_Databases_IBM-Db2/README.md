@@ -102,3 +102,68 @@ Then use the five csv files to load data into the respective tables. The csv fil
 
 Verify that the loading process was sucessfull for each table:
 <img src="./Load Jobs datafile - Completed.png" width="700">
+
+\
+\
+.  
+## 4- String Patterns, Sorting and Grouping
+Work done on the HR_database consisting of 5 tables called *employees*, *job_history*, *jobs*, *departments* and *locations*. 
+
+Task-6 intructions and my solution queries in script Task-6_instructions_and_solutions.sql
+
+Milestones:
+* Simplify SELECT statements by using string patterns, ranges, or sets of values.
+* Sort the result set and identify which column to use for the sorting order.
+* Eliminate duplicates from a result set and further restrict a result set.
+
+
+\
+\
+.  
+## 5- Working with Aggregate, Scalar, String, Date & Time Functions
+Work done in the PETRESCUE table that can be created with the Task-7_petrescue_create.sql script.  
+
+The objetive of these exercices is to get insights from the table using different types of built-in functions:  
+
+* **Agregation:** SUM(), MIN(), MAX(), AVG(), etc
+* **Scalar & String:** ROUND(), LENGHT(), UCASE(), LCASE(), etc
+* **Date & Time:** YEAR(), MONTH(), DAY(), DAYOFMONTH(), DAYOFWEEK(), DAYOFYEAR(), WEEK(), HOUR(), MINUTE(), SECOND(), DAYS, CURRENT_DAY, CURRENT_TIME, etc
+
+Task-7 intructions and my solution queries can be found in files:  
+* task-7_Sol_Ex2.sql
+* task-7_Sol_Ex3.sql
+* task-7_Sol_Ex4.sql
+
+
+
+\
+\
+.  
+## 6- Subqueries & Nested SELECT statements
+Work done on the HR_database consisting of 5 tables called *employees*, *job_history*, *jobs*, *departments* and *locations*.  
+
+Milestones:  
+* Write SQL queries that demonstrate the necessity of using sub-queries.
+* Compose sub-queries in the where clause.
+* Build Column Expressions (i.e. sub-query in place of a column).
+* Write Table Expressions (i.e. sub-query in place of a table).
+
+Task-8 intructions and solution queries can be found in file task-8_Subqueries.sql  
+
+
+
+\
+\
+.  
+## 7- Working with multiple tables
+Also working on the HR_database.
+
+Milestones:  
+* Write SQL queries that access more than one table.
+* Compose queries that access multiple tables using a nested statement in the WHERE clause.
+* Build queries with multiple tables in the FROM clause.
+* Write Implicit Join queries with join criteria specified in the WHERE clause.
+* Specify aliases for table names and qualify column names with table aliases.
+
+
+Task-9 instructions and solutions can be found in file 
